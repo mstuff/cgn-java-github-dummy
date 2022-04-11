@@ -5,6 +5,7 @@ public class MainDummy {
 
 
         Helper helper = new Helper();
+        Practice practice = new Practice();
 
         System.out.println("Hotfix eingebaut - alles wieder OK!");
         System.out.println("Hotfix2 eingebaut - alles wieder OK!");
